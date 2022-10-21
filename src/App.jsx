@@ -20,7 +20,7 @@ import {
   Calendar,
   Geography,
   DataTable,
-} from "./components";
+} from "./pages";
 
 const router = createBrowserRouter(
   createRoutesFromElements(
